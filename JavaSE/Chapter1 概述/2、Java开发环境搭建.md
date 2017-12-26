@@ -10,7 +10,7 @@
 
 3. JDK安装目录结构：
 
-   ![目录结构][image/目录结构.png]
+   ![目录结构][image/project.png]
 
    - bin：存放工具命令，如javac，java等命令；
    - db：安装JavaDB路径；
@@ -24,13 +24,13 @@
    2. 新建，变量名：JAVA_HOME，变量值：D:\Program Files\Java\jdk1.8.0_131
    3. 找到Path，添加：%JAVA_HOME%\bin（注意分号）
 
-   ![环境变量][image/环境变量.png]
+   ![环境变量][image/path.png]
 
 5. 验证安装：
 
    快捷键Win+R打开运行——CMD，输入Java运行命令，javac编译命令或Java -version，如下图显示就是安装成功，So easy！！！
 
-   ![安装测试][image/安装测试.png]
+   ![安装测试][image/testJava.png]
 
    ​
 
