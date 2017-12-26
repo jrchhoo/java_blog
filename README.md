@@ -4,3 +4,5 @@
 
 [Chapter1-1：Java语言概述](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter1%20%E6%A6%82%E8%BF%B0/Java%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0.md)
 
+[Chapter1-2：Java开发环境搭建](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter1%20%E6%A6%82%E8%BF%B0/Java%E8%AF%AD%E8%A8%80%E6%A6%82%E8%BF%B0.md)
+
