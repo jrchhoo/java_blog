@@ -28,7 +28,7 @@
 
    3. 找到Path，添加：%JAVA_HOME%\bin（注意分号）
 
-         		![环境变量](image/path.png)]
+         		![环境变量](image/path.png)
 
 5. 验证安装：
 
