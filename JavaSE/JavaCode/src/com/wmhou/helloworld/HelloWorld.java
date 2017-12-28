@@ -1,4 +1,6 @@
-public class HelloWorl
+package com.wmhou.helloworld;
+
+public class HelloWorld
 {
 	public static void main(String[] args)
 	{
