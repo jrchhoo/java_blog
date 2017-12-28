@@ -30,11 +30,21 @@
 
       ![环境变量](image/path.png)
 
+   4. 新建，变量名：classpath，变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\toos.jar;（前面加.表示当前路径，用以强制Java解释器在当前路径下搜索Java类，用；分隔变量）  如图：
+
+      ![](image/classpath.png)
+
+      - 注意，配置了classpath，java命令才能被识别到，这个地方很容易出错，请一定注意。
+
 5. 验证安装：
 
    快捷键Win+R打开运行——CMD，输入Java运行命令，javac编译命令或Java -version，如下图显示就是安装成功，So easy！！！
 
    ​	![安装测试](image/testJava.png)
+
+   搭建好了环境，我们来跑一个小小的程序，也就是每一个程序员都知道的：HelloWorld
+
+   [下篇：3、第一个Java程序](3、第一个Java程序.md)
 
    ​
 
