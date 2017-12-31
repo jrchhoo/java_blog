@@ -1,4 +1,4 @@
-package com.wmhou.helloworld;
+package com.wmhou.chapter1.helloworld;
 
 public class HelloWorld
 {
