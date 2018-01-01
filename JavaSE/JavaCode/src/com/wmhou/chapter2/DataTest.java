@@ -1,5 +1,8 @@
 package com.wmhou.chapter2;
 
+/**
+ * 4类八种基本数据类型示意
+ */
 public class DataTest {
 
     public static void main(String[] args) {
@@ -13,9 +16,18 @@ public class DataTest {
 
         //字符型
         char c1 = 'A';
-        char c2 = 'AB'; //编译错误
+        //char c2 = 'AB'; //编译错误
         char c3 = '字';
-        char c4 = '字符';//编译错误
+        //char c4 = '字符';//编译错误
+
+        //浮点型
+        float f = 3.14F;
+        double d = 3.14;
+
+        //布尔型
+        boolean b1 = false;
+        boolean b2 = true;
+
 
     }
 }
