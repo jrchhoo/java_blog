@@ -1,6 +1,6 @@
 ### 3、第一个Java程序###
 
-[上篇：2、Java开发环境搭建](2、Java开发环境搭建.md)
+[上篇——Chapter1：2、Java开发环境搭建](2、Java开发环境搭建.md)
 
 #### 编辑Java源代码
 
@@ -63,4 +63,8 @@ public class HelloWorld
 环境变量一定一定要仔细设置，就这一个小小的HelloWorld，动手操作时真的不一定一帆风顺哦！！！
 
 [本节代码路径](https://github.com/wmhou/java_blog/tree/master/JavaSE/JavaCode)
+
+[下篇——Chapter2：1、变量](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter2%20%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/1%E3%80%81%E5%8F%98%E9%87%8F.md)
+
+
 

@@ -1,5 +1,8 @@
 package com.wmhou.chapter2;
 
+/**
+ * 变量
+ */
 public class Variable {
 
     //类变量

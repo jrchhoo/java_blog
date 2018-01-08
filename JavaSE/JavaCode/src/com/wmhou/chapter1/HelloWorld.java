@@ -1,4 +1,4 @@
-package com.wmhou.chapter1.helloworld;
+package com.wmhou.chapter1;
 
 /**
  * 第一个程序
