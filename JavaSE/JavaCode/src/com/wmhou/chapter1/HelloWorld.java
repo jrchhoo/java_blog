@@ -1,7 +1,7 @@
 package com.wmhou.chapter1;
 
 /**
- * 第一个程序
+ * 第一个程序：HelloWorld
  */
 public class HelloWorld
 {

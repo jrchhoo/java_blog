@@ -1,7 +1,7 @@
 package com.wmhou.chapter2;
 
 /**
- * 算数运算符
+ * 运算符实例
  */
 public class CalcTest {
 
