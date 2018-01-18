@@ -1,7 +1,14 @@
 package com.wmhou.chapter2;
 
 /**
- * 4类八种基本数据类型示意
+ * Description: 4类八种基本数据类型示意
+ * <br/>网站：<a href="https://github.com/wmhou/java_blog">Java_blog on Github</a>
+ * <br/>Program Name: Java_blog
+ * <br/>Date:2017-12-10
+ *
+ * @author 侯伟民
+ * @version 1.0
+ *
  */
 public class DataTest {
 

@@ -1,7 +1,14 @@
 package com.wmhou.chapter2;
 
 /**
- * 基本数据类型之间的类型转换
+ * Description: 基本数据类型之间的类型转换
+ * <br/>网站：<a href="https://github.com/wmhou/java_blog">Java_blog on Github</a>
+ * <br/>Program Name: Java_blog
+ * <br/>Date:2017-12-5
+ *
+ * @author 侯伟民
+ * @version 1.0
+ *
  */
 public class DataChangeTest {
 
