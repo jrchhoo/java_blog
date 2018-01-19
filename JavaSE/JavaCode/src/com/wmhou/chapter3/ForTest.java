@@ -15,13 +15,26 @@ public class ForTest {
         //for循环
         for (int i = 0; i < 5; i++)
         {
-            System.out.println("这是第" + i++ + "次循环");
+            System.out.println("这是第" + i + "次循环");
         }
 
         //升级复杂度后的for循环
         for (int i = 0; i <= 5; i++)
         {
-            System.out.println("这是第" + i++ + "次循环");
+            System.out.println("这是第" + ++i + "次循环");
+        }
+
+        //增强for循环
+        int[] ints = {1,3,5,7,9};
+        for(int i: ints)
+        {
+            System.out.println(i);
+        }
+
+        //改用for循环
+        for (int i = 0; i < ints.length; i++)
+        {
+            System.out.println(ints[i]);
         }
     }
 }
