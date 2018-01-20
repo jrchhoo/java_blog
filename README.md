@@ -21,6 +21,12 @@
 - [Chapter3：3、循环结构](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter3%20%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/3%E3%80%81%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md)
 
 
+#### Chapter4：数组
+
+- [Chapter4：1、数组](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter4%20%E6%95%B0%E7%BB%84/1%E3%80%81%E6%95%B0%E7%BB%84.md)
+
+
+
 
 
 
