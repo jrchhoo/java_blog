@@ -26,6 +26,13 @@
 - [Chapter4：1、数组](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter4%20%E6%95%B0%E7%BB%84/1%E3%80%81%E6%95%B0%E7%BB%84.md)
 
 
+#### Chapter4：面向对象
+
+- [Chapter5：1、类和对象](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/1%E3%80%81%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1.md)
+- [Chapter5：2、方法](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/2%E3%80%81%E6%96%B9%E6%B3%95.md)
+- [Chapter5：3、封装](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/3%E3%80%81%E5%B0%81%E8%A3%85.md)
+- [Chapter5：1、类和对象](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/4%E3%80%81%E7%BB%A7%E6%89%BF.md)
+
 
 
 
