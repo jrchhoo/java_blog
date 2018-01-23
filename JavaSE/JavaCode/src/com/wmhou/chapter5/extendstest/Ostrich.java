@@ -23,7 +23,7 @@ public class Ostrich extends Birds
 
     public static void main(String[] args)
     {
-        Ostrich ostrich = new Ostrich();
+        Ostrich ostrich = new Ostrich("灰色");
         ostrich.view("黑色");
         ostrich.fly();
     }
