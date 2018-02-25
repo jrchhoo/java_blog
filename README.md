@@ -33,7 +33,7 @@
 - [Chapter5：3、封装](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/3%E3%80%81%E5%B0%81%E8%A3%85.md)
 - [Chapter5：4、继承](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/4%E3%80%81%E7%BB%A7%E6%89%BF.md)
 - [Chapter5：5、多态](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/5%E3%80%81%E5%A4%9A%E6%80%81.md)
-- [Chapter5：6、final和static关键字]()
+- [Chapter5：6、final和static关键字](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/6%E3%80%81final%E5%92%8Cstatic%E5%85%B3%E9%94%AE%E5%AD%97.md)
 
 
 
