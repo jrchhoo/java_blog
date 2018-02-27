@@ -1,10 +1,10 @@
 package com.wmhou.chapter5.finaltest;
 
 /**
- * Description:
+ * Description:final演示阻止继承
  * <br/>网站：<a href="https://github.com/wmhou/java_blog">Java_blog on Github</a>
  * <br/>Program Name: Java_blog
- * <br/>Date:2017-12-1
+ * <br/>Date:2018-2-28
  *
  * @author 侯伟民
  * @version 1.0

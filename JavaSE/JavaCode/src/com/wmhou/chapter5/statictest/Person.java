@@ -4,7 +4,7 @@ package com.wmhou.chapter5.statictest;
  * Description:初始化块和静态初始化演示
  * <br/>网站：<a href="https://github.com/wmhou/java_blog">Java_blog on Github</a>
  * <br/>Program Name: Java_blog
- * <br/>Date:2018-2-27
+ * <br/>Date:2018-2-28
  *
  * @author 侯伟民
  * @version 1.0
