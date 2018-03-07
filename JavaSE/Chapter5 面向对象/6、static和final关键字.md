@@ -230,4 +230,4 @@ final修饰的成员变量必须显式指定初始值，我们知道成员变量
 
 [本节代码路径_final修饰符](https://github.com/wmhou/java_blog/tree/master/JavaSE/JavaCode/src/com/wmhou/chapter5/finaltest)
 
-[下篇——Chapter5：7、抽象类和接口]() 
+[下篇——Chapter5：7、抽象类和接口](7、抽象类、接口和内部类.md) 
