@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Description:
+ * Description:使用函数式接口，自定义代码逻辑
  * <br/>网站：<a href="https://github.com/wmhou/java_blog">Java_blog on Github</a>
  * <br/>Program Name: Java_blog
  * <br/>Date:2018-03-14
