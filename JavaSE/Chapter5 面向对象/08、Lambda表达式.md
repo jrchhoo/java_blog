@@ -1,6 +1,6 @@
 ### 8、Lambda表达式
 
-[上篇——Chapter5：7、抽象类、接口和内部类](7、抽象类、接口和内部类.md)
+[上篇——Chapter5：07、抽象类、接口和内部类](07、抽象类、接口和内部类.md)
 
 Lambda表达式是Java8的新特性，它支持将代码块作为参数进行传递，这个特性我们之前是没有接触过的，在Java中定义的方法不可能完全独立，也不能将方法作为参数或者返回一个方法，Lambda可以做到这一点。
 
@@ -154,7 +154,7 @@ Lambda在笔者经历的项目中，主要应用还是在Runable接口的使用�
 
 [本节代码路径](https://github.com/wmhou/java_blog/tree/master/JavaSE/JavaCode/src/com/wmhou/chapter5/lambdademo)
 
-[下篇——Chapter5：9、正则表达式](9、正则表达式.md)
+[下篇——Chapter5：09、正则表达式](09、正则表达式.md)
 
 
 
