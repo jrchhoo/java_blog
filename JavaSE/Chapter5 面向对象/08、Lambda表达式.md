@@ -154,7 +154,7 @@ Lambda在笔者经历的项目中，主要应用还是在Runable接口的使用�
 
 [本节代码路径](https://github.com/wmhou/java_blog/tree/master/JavaSE/JavaCode/src/com/wmhou/chapter5/lambdademo)
 
-[下篇——Chapter5：09、正则表达式](09、正则表达式.md)
+[下篇——Chapter5：09、枚举](09、枚举.md)
 
 
 
