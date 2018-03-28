@@ -16,9 +16,4 @@ public class ProductStatus {
     public static final int NOT_CONSIGNMENT = 4;
     public static final int FINISI_RECIVE = 5;
     public static final int NOT_RECIVE = 6;
-
-
-    public static void main(String[] args) {
-        ProductStatusHasValueEnum en = new ProductStatusHasValueEnum("", 1);
-    }
 }

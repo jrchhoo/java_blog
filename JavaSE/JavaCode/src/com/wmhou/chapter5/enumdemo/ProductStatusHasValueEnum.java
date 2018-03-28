@@ -55,7 +55,5 @@ public enum ProductStatusHasValueEnum {
         String status = ProductStatusHasValueEnum.getStatus(index);
         System.out.println("index = " + index + "的商品状态是：" + status);
 
-        ProductStatusHasValueEnum en = new ProductStatusHasValueEnum("", 1);
-        en.
     }
 }
