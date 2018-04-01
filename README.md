@@ -40,7 +40,7 @@
 - [Chapter5：6、static和final关键字](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/06%E3%80%81static%E5%92%8Cfinal%E5%85%B3%E9%94%AE%E5%AD%97.md)
 - [Chapter5：7、抽象类、接口和内部类](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/07%E3%80%81%E6%8A%BD%E8%B1%A1%E7%B1%BB%E3%80%81%E6%8E%A5%E5%8F%A3%E5%92%8C%E5%86%85%E9%83%A8%E7%B1%BB.md)
 - [Chapter5：8、Lambda表达式](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/08%E3%80%81Lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
-- [Chapter5：9、枚举]()
+- [Chapter5：9、枚举](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter5%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/09%E3%80%81%E6%9E%9A%E4%B8%BE.md)
 - [Chapter5：10、正则表达式]()
 
 
