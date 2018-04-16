@@ -1,8 +1,8 @@
-### About    JavaSE
+# About    Java
 
-#### 用心对待自己的每一篇文章！！！
+### 用心对待自己的每一篇文章！！！
 
-- 本节由浅入深记录JavaSE系统知识，同时包含具体内容扩展知识、遇到的问题记录和个人感悟等内容。不忘初心，砥砺前行！独立进行，难免有错误之处，还请各位同行多多批评，多多指正（更新中）
+### Include JavaSE、JavaEE and the other knowledge about Java
 
 #### [Java基础思维导图](MindManager)
 
