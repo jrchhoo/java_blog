@@ -1,4 +1,4 @@
-### 2、Java开发环境搭建
+## 2、Java开发环境搭建
 
 [上篇——Chapter1：1、Java语言概述](1、Java语言概述.md)
 
@@ -51,12 +51,12 @@
    2. 通过xftp客户端上传至Linux环境/usr目录下；
 
    3.  ```shell
-      cd /usr
+      cd /usr 
       mkdir java
       cp jdk-8u161-linux-i586.tar.gz java/
       cd java 
       tar -xzvf jdk-8u161-linux-i586.tar.gz 
-       ```
+      ```
 
    4. 配置环境变量：
 

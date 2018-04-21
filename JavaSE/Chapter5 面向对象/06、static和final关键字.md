@@ -1,6 +1,6 @@
 
 
-### 6、static和final修饰符
+## 6、static和final修饰符
 
 [上篇——Chapter5：05、多态](05、多态.md)
 
