@@ -46,7 +46,8 @@
 #### Chapter6：集合
 
 - [Chapter6：1、集合框架概述](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter6%20%E9%9B%86%E5%90%88/1%E3%80%81%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E6%A6%82%E8%BF%B0.md)
-- [Chapter6：2、Connection和Iterator接口]()
+- [Chapter6：2、Connection和Iterator接口](https://github.com/wmhou/java_blog/blob/master/JavaSE/Chapter6%20%E9%9B%86%E5%90%88/2%E3%80%81Connection%E5%92%8CIterator%E6%8E%A5%E5%8F%A3.md)
+- ​
 
 
 
